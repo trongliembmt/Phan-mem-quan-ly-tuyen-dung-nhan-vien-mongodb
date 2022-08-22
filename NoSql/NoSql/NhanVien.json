@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "606eb20feaa10e100c829460"
+  },
+  "Manv": "Nv01",
+  "Tennv": "Nguyễn Trọng Liêm",
+  "Ngaysinh": {
+    "$date": "2001-06-06T17:00:00Z"
+  },
+  "Diachi": "120 Nguyễn Du , Thành phố Buôn Ma Thuột",
+  "Sdt": "09345678912"
+},{
+  "_id": {
+    "$oid": "606eb247eaa10e100c829461"
+  },
+  "Manv": "Nv02",
+  "Tennv": "Nguyễn Duy Khang",
+  "Ngaysinh": {
+    "$date": "2001-12-08T17:00:00Z"
+  },
+  "Diachi": "150 Trần Phú , quận Gò Vấp",
+  "Sdt": "09375689123"
+},{
+  "_id": {
+    "$oid": "606eb3baeaa10e100c829463"
+  },
+  "Manv": "Nv03",
+  "Tennv": "Trần Phương Bình",
+  "Ngaysinh": {
+    "$date": "2001-01-22T17:00:00Z"
+  },
+  "Diachi": "245 Nguyễn Sơn , quận Tân Phú",
+  "Sdt": "093659878512"
+},{
+  "_id": {
+    "$oid": "606eb3f2eaa10e100c829464"
+  },
+  "Manv": "Nv04",
+  "Tennv": "Nguyễn Minh Tiến",
+  "Ngaysinh": {
+    "$date": "2001-06-06T17:00:00Z"
+  },
+  "Diachi": "250 Nguyễn Du , quận Tân Bình",
+  "Sdt": "09456489789"
+},{
+  "_id": {
+    "$oid": "606eb426eaa10e100c829465"
+  },
+  "Manv": "Nv05",
+  "Tennv": "Lê Hoàng Nam",
+  "Ngaysinh": {
+    "$date": "2002-07-10T17:00:00Z"
+  },
+  "Diachi": "300 Vườn Lài , quận Tân Phú",
+  "Sdt": "09645619871568"
+}]

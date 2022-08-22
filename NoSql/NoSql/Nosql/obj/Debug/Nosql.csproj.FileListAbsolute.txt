@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\Nosql.exe.config
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\Nosql.exe
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\Nosql.pdb
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Bson.xml
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Driver.xml
+C:\Users\DELL\Desktop\Nosql\Nosql\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.Form1.resources
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.Properties.Resources.resources
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.exe
+C:\Users\DELL\Desktop\Nosql\Nosql\obj\Debug\Nosql.pdb

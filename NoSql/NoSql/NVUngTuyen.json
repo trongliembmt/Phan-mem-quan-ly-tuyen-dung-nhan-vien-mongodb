@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "608032ecfe27bffcd1a3b7a7"
+  },
+  "MaUT": "UT01",
+  "Hoten": "Nguyễn Trọng Liêm",
+  "NgaySinh": {
+    "$date": "2001-06-06T17:00:00Z"
+  },
+  "DiaChi": "120 Nguyễn Du , Thành phố Buôn Ma Thuột",
+  "Gmail": "Liembo@gmail.com",
+  "SDT": "09345678912",
+  "TrinhDo": "Đại Học",
+  "CongTy": [
+    {
+      "MaCty": "CT01",
+      "TenCty": "Công ty FPT",
+      "CongViec": [
+        {
+          "MaCV": "Ma01",
+          "TenCV": "Lập Trình Web"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "608033f3fe27bffcd1a3b7a8"
+  },
+  "MaUT": "UT02",
+  "Hoten": "Nguyễn Duy Khang",
+  "NgaySinh": {
+    "$date": "2001-12-08T17:00:00Z"
+  },
+  "DiaChi": "150 Trần Phú , quận Gò Vấp",
+  "Gmail": "Khang@gmail.com",
+  "SDT": "09375689123",
+  "TrinhDo": "Đại học",
+  "CongTy": [
+    {
+      "MaCty": "CT02",
+      "TenCty": "Công ty may",
+      "CongViec": [
+        {
+          "MaCV": "Ma02",
+          "TenCV": "Quản lý nhân sự"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60803523fe27bffcd1a3b7a9"
+  },
+  "MaUT": "UT03",
+  "Hoten": "Trần Phương Bình",
+  "NgaySinh": {
+    "$date": "2001-01-22T17:00:00Z"
+  },
+  "DiaChi": "245 Nguyễn Sơn , quận Tân Phú",
+  "Gmail": "Binh@gmail.com",
+  "SDT": "093659878512",
+  "TrinhDo": "Đại học",
+  "CongTy": [
+    {
+      "MaCty": "CT03",
+      "TenCty": "Công ty MSI",
+      "CongViec": [
+        {
+          "MaCV": "Ma02",
+          "TenCV": "Người edit video"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6080367bfe27bffcd1a3b7ab"
+  },
+  "MaUT": "UT04",
+  "Hoten": "Nguyễn Minh Tiến",
+  "NgaySinh": {
+    "$date": "2001-06-06T17:00:00Z"
+  },
+  "DiaChi": "250 Nguyễn Du , quận Tân Bình",
+  "Gmail": "Tien@gmail.com",
+  "SDT": "09456489789",
+  "TrinhDo": "Cao đẳng",
+  "CongTy": [
+    {
+      "MaCty": "CT04",
+      "TenCty": "Công ty TH True Milk",
+      "CongViec": [
+        {
+          "MaCV": "Ma02",
+          "TenCV": "Thu ngân"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60803728fe27bffcd1a3b7ac"
+  },
+  "MaUT": "UT05",
+  "Hoten": "Lê Hoàng Nam",
+  "NgaySinh": {
+    "$date": "2002-07-10T17:00:00Z"
+  },
+  "DiaChi": "300 Vườn Lài , quận Tân Phú",
+  "Gmail": "Nam@gmail.com",
+  "SDT": "09645619871568",
+  "TrinhDo": "THPT",
+  "CongTy": [
+    {
+      "MaCty": "CT06",
+      "TenCty": "Công ty Apple",
+      "CongViec": [
+        {
+          "MaCV": "Ma02",
+          "TenCV": "Thiết kế đồ họa"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60803851fe27bffcd1a3b7ae"
+  },
+  "MaUT": "UT07",
+  "Hoten": "Vu Minh Trung",
+  "NgaySinh": {
+    "$date": "1996-02-24T00:00:00Z"
+  },
+  "DiaChi": "125/2 Hoa Hung, TPHCM",
+  "Gmail": "Trung1@gmail.com",
+  "SDT": "0989505065",
+  "TrinhDo": "Dai Hoc",
+  "CongTy": [
+    {
+      "MaCty": "CT01",
+      "TenCty": "Cong ty PBT",
+      "CongViec": [
+        {
+          "MaCV": "Ma01",
+          "TenCV": "Lap Trinh Java"
+        }
+      ]
+    }
+  ]
+}]

@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "607ffbd5fe27bffcd1a3b79e"
+  },
+  "MaCty": "CT01",
+  "TenCty": "Công ty FPT",
+  "Diachi": "140 Nguyễn Sơn, quận Tân Phú, TPHCM",
+  "Sdt": "093159678",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Lập Trình Web",
+      "Luong": "2000$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Quản lý Marketing",
+      "Luong": "1000$"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "607ffcaafe27bffcd1a3b79f"
+  },
+  "MaCty": "CT02",
+  "TenCty": "Công ty may",
+  "Diachi": "150 Tân Kỳ Tân Quý, quận Tân Phú, TPHCM",
+  "Sdt": "037956743",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Nhân viên may",
+      "Luong": "700$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Quản lý nhân sự",
+      "Luong": "1000$"
+    },
+    {
+      "MaCV": "Ma03",
+      "TenCV": "Bảo vệ",
+      "Luong": "500$"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "607ffd11fe27bffcd1a3b7a0"
+  },
+  "MaCty": "CT03",
+  "TenCty": "Công ty MSI",
+  "Diachi": "60 đường Nam Kỳ Khởi Nghĩa, quận 1, TPHCM",
+  "Sdt": "083213123",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Nhân viên bán sản phẩm",
+      "Luong": "600$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Người edit video",
+      "Luong": "1000$"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "607ffdc7fe27bffcd1a3b7a2"
+  },
+  "MaCty": "CT04",
+  "TenCty": "Công ty TH True Milk",
+  "Diachi": "170 Tô Tuyến Thành, Hà Nội",
+  "Sdt": "037541255",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Shipper",
+      "Luong": "300$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Thu ngân",
+      "Luong": "500$"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "607ffe5afe27bffcd1a3b7a3"
+  },
+  "MaCty": "CT05",
+  "TenCty": "Công ty Cellphones",
+  "Diachi": "150 Pham Van Dong, TPHCM",
+  "Sdt": "037730758 ",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Tư vấn bán hàng",
+      "Luong": "800$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Lập trình web",
+      "Luong": "1500$"
+    }  
+  ]
+},{
+  "_id": {
+    "$oid": "608021ebfe27bffcd1a3b7a4"
+  },
+  "MaCty": "CT06",
+  "TenCty": "Công ty Apple",
+  "Diachi": "190 Đống Đa, Đà Nẵng",
+  "Sdt": "03741323258 ",
+  "CongViec": [
+    {
+      "MaCV": "Ma01",
+      "TenCV": "Lập trình IOS",
+      "Luong": "700$"
+    },
+    {
+      "MaCV": "Ma02",
+      "TenCV": "Thiết kế đồ họa",
+      "Luong": "600$"
+    }
+  ]
+}]

@@ -1,0 +1,65 @@
+C:\Users\DELL\Desktop\Form\Nosql\bin\Debug\Nosql.exe.config
+C:\Users\DELL\Desktop\Form\Nosql\bin\Debug\Nosql.exe
+C:\Users\DELL\Desktop\Form\Nosql\bin\Debug\Nosql.pdb
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.Form1.resources
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.Properties.Resources.resources
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.exe
+C:\Users\DELL\Desktop\Form\Nosql\obj\Debug\Nosql.pdb
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.exe.config
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.exe
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.pdb
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.exe
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.pdb
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Form1.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Properties.Resources.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\bin\Debug\MongoDB.Bson.xml
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\bin\Debug\MongoDB.Driver.xml
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.DangNhap.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Main.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.CongTy.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.HoSo.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNhanVien.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemCongTy.resources
+C:\Users\DELL\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNguoiUngTuyen.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.exe.config
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.exe
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\bin\Debug\Nosql.pdb
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\bin\Debug\MongoDB.Bson.xml
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\bin\Debug\MongoDB.Driver.xml
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.AssemblyReference.cache
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.CongTy.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.DangNhap.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Form1.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.HoSo.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Main.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.Properties.Resources.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemCongTy.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNguoiUngTuyen.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNhanVien.resources
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.GenerateResource.cache
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.CoreCompileInputs.cache
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.exe
+C:\Users\GF65\Desktop\NoSql\Form\Nosql\obj\Debug\Nosql.pdb
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\bin\Debug\Nosql.exe.config
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\bin\Debug\Nosql.exe
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\bin\Debug\Nosql.pdb
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\bin\Debug\MongoDB.Bson.xml
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\bin\Debug\MongoDB.Driver.xml
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.AssemblyReference.cache
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.CongTy.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.DangNhap.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.Form1.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.HoSo.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.Main.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.Properties.Resources.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemCongTy.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNguoiUngTuyen.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.TimKiemNhanVien.resources
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.GenerateResource.cache
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.csproj.CoreCompileInputs.cache
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.exe
+C:\Users\GF65\Desktop\Hoc tap lap trinh\NoSql\Form\Nosql\obj\Debug\Nosql.pdb
